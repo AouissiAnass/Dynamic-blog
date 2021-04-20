@@ -1,0 +1,11 @@
+.card_container
+{
+    display: inline-block;
+}
+
+.second_container
+{
+    display: block ;
+    margin: 50px !important;
+    border: 2px solid black;
+}
